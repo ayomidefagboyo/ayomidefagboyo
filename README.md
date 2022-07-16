@@ -19,7 +19,6 @@
 - ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme and Altschool africa**
  
  ## 🔗 Links
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2TH9k3DtCjwPUovh-Sb-Qg)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunletolulope05)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
@@ -53,7 +52,7 @@ Name | Badges
 ## ❤ Views and Followers.
 
 <a href="https://github.com/ayomidefagboyo/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Tolulope05">
+    <img src="https://komarev.com/ghpvc/?username=ayomidefagboyo">
 </a>
 <a href="https://github.com/ayomidefagboyo?tab=followers"><img src="https://img.shields.io/github/followers/ayomidefagboyo?label=Followers&style=social" alt="GitHub Badge"></a>
 
@@ -63,13 +62,13 @@ Name | Badges
  
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomidefagboyo&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Tolulope Fakunle's github stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayomidefagboyo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="ayomide's github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayomidefagboyo&theme=dark" alt="ayomidefagboyo" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
-> <a href="https://github.com/ayomidefagboyo/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/ayomidefagboyo/github-readme-activity-graph"><img alt="ayomide's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayomidefagboyo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
