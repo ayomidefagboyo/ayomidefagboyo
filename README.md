@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript **
 
-- 💬 Ask me about **Web and Mobile App Dev**
+- 💬 Ask me about **startups and anime**
 
 - 📫 How to reach me **ayomide_fagboyo@yahoo.com.com**
 
