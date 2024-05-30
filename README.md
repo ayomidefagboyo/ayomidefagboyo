@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayomide_fagboyo" target="blank"><img src="https://img.shields.io/twitter/follow/ayomide_fagboyo?logo=twitter&style=for-the-badge" alt="ayomidefagboyo" /></a> </p>
 
-- 🔭 I’m currently working on **Cinopay a healthcare payment service startup**
+- 🔭 I’m currently working on **Ponchoai an AI productivity tool that helps you go viral for creators**
 
 - 🌱 I’m currently learning **Javascript **
 
