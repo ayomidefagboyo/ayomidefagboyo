@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ayomide_fagboyo@yahoo.com.com**
 
-- ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme and Altschool africa**
+- ⚡ Fun fact **I'm a student of life**
  
  ## 🔗 Links
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@ayomidefagboyo)
